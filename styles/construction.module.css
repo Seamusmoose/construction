@@ -36,6 +36,12 @@
   color: #fff;
 }
 
+.titleSecondary {
+  font-family: "Roboto Mono", monospace;
+  font-size: 2.2rem;
+  color: #fff;
+}
+
 .description {
   font-family: "Roboto Mono", monospace;
   color: #fff;
